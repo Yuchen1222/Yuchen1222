@@ -79,26 +79,35 @@ Coming Soon
 
 ## 論文與研究發表
 
-**[IoT Implementation Learning Support System Integrating AR Multimodal Interaction and Generative AI](#)**
+**[IoT Implementation Learning Support System Integrating AR Multimodal Interaction and Generative AI](https://github.com/Yuchen1222/Yuchen1222/blob/main/README.md#)**
 
-發表於：GCCCE 2026 C6：人工智能教育應用及實踐、智慧學習環境（Artificial Intelligence in Education Applications and Practices, Intelligent Learning Environments)
+發表於：GCCCE 2026 C6：人工智能教育應用及實踐、智慧學習環境（Artificial Intelligence in Education Applications and Practices, Intelligent Learning Environments）
 
 Coming Soon
 
-**[A Multimodal Interactive loT Learning System Using AR Smart Glasses and Generative Al](#)**
+**[A Multimodal Interactive IoT Learning System Using AR Smart Glasses and Generative AI](https://github.com/Yuchen1222/Yuchen1222/blob/main/README.md#)**
 
 發表於：APSCE International Conference on Artificial Intelligence, Metaverse and Artificial Companions in Education and Society 2026
 
 Coming Soon
 
-**[結合生成式 AI與 AR智慧眼鏡之多模態互動學習系統：以物聯網教學為例（審查中）](#)** 
+**[結合生成式 AI 與 AR 智慧眼鏡之多模態互動學習系統：以物聯網教學為例](https://github.com/Yuchen1222/Yuchen1222/blob/main/README.md#)** （審查中）
 
+國科會大專生研究計畫
+
+Coming Soon
+
+| 年份 | 論文 / 計畫 | 發表場合 |
+|------|------------|---------|
+| 2026 | IoT Implementation Learning Support System Integrating AR Multimodal Interaction and Generative AI | GCCCE 2026 |
+| 2026 | A Multimodal Interactive IoT Learning System Using AR Smart Glasses and Generative AI | APSCE TBICS 2026 |
+| 審查中 | 結合生成式 AI 與 AR 智慧眼鏡之多模態互動學習系統 | 國科會大專生研究計畫 |
 
 ---
 
 ## 榮譽與競賽經歷
 
-**[中研院資料科學競賽 — 優選](#)**
+**[中研院資料科學競賽 — 佳作](#)**
 
 運用長期追蹤調查數據，分析高齡族群長照使用之時間變化與影響因素，為政策提供數據支持。
 
@@ -112,7 +121,7 @@ Coming Soon
 
 | 年份 | 獎項 | 主辦單位 |
 |------|------|---------|
-| 2025 | 資料科學漫步 優選獎 | 中央研究院統計科學研究所 |
+| 2025 | 資料科學漫步 佳作 | 中央研究院統計科學研究所 |
 | 2025 | USR 學生社會責任實踐專題競賽 佳作 | 東吳大學 |
 | 2025 | Cardif InsurHack 校園黑客松 佳作 | BNP Paribas Cardif 法國巴黎人壽 |
 
