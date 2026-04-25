@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](./banner.png)
+![Banner](./profile_banner.svg)
 
 # Yu-Chen Huang　黃宇晨
 
