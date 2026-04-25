@@ -27,7 +27,7 @@ My current research focuses on designing **multimodal interactive learning syste
 
 ---
 
-## 🔬 Research Interests　／　研究興趣
+##  Research Interests　／　研究興趣
 
 | English | 中文 |
 |--------|------|
@@ -38,7 +38,7 @@ My current research focuses on designing **multimodal interactive learning syste
 
 ---
 
-## 🛠️ Tech Stack　／　技術棧
+##  Tech Stack　／　技術棧
 
 **Languages　／　程式語言**
 
@@ -62,7 +62,7 @@ My current research focuses on designing **multimodal interactive learning syste
 
 ---
 
-## 📊 GitHub Stats　／　GitHub 統計
+##  GitHub Stats　／　GitHub 統計
 
 <div align="center">
 
@@ -74,10 +74,10 @@ My current research focuses on designing **multimodal interactive learning syste
 
 ---
 
-## 📫 Contact　／　聯絡方式
+##  Contact　／　聯絡方式
 
-- 📧 **Email** — [yuchen.cookie@gmail.com](mailto:yuchen.cookie@gmail.com)
-- 🏫 **Affiliation　／　所屬單位** — Department of Data Science, Soochow University, Taiwan　東吳大學資料科學系
+-  **Email** — [yuchen.cookie@gmail.com](mailto:yuchen.cookie@gmail.com)
+-  **Affiliation　／　所屬單位** — Department of Data Science, Soochow University, Taiwan　東吳大學資料科學系
 
 ---
 
