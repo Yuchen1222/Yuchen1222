@@ -2,6 +2,10 @@
 
 ![Banner](./banner.png)
 
+# Yu-Chen Huang　黃宇晨
+
+大學部研究生 &nbsp;·&nbsp; 全端開發者 &nbsp;·&nbsp; AI × AR 探索者
+
 [![Email](https://img.shields.io/badge/yuchen.cookie%40gmail.com-grey?style=flat-square&logo=gmail&logoColor=white)](mailto:yuchen.cookie@gmail.com)
 [![GitHub](https://img.shields.io/badge/Yuchen1222-grey?style=flat-square&logo=github&logoColor=white)](https://github.com/Yuchen1222)
 ![University](https://img.shields.io/badge/東吳大學_資料科學系-grey?style=flat-square)
