@@ -77,17 +77,19 @@ Coming Soon
 
 ---
 
-## 研究計畫
-
-**[大專生研究計畫](#)** （審查中）
+## 論文與研究發表
 
 **[GCCCE 2026](#)**
 
 Coming Soon
 
-**[APSCE TBICS 2026](#)**
+**[A Multimodal Interactive loT Learning System Using AR Smart Glasses and Generative Al](#)**
 
+發表於：APSCE International Conference on Artificial Intelligence, Metaverse and Artificial Companions in Education and Society 2026
 Coming Soon
+
+**[結合生成式 AI與 AR智慧眼鏡之多模態互動學習系統：以物聯網教學為例（審查中）](#)** 
+
 
 ---
 
