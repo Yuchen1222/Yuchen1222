@@ -27,7 +27,7 @@ My current research focuses on designing **multimodal interactive learning syste
 
 ---
 
-##  Research Interests　／　研究興趣
+## 🔬 Research Interests　／　研究興趣
 
 | English | 中文 |
 |--------|------|
@@ -38,7 +38,49 @@ My current research focuses on designing **multimodal interactive learning syste
 
 ---
 
-##  Tech Stack　／　技術棧
+## 📚 Coursework Projects　／　課程專案
+
+> 🔗 Links will be updated as projects are uploaded. ／ 連結將於專案上傳後陸續補上。
+
+| 課程 Course | 專案連結 Link |
+|------------|--------------|
+| Unity（期中 / 期末） | `Coming Soon` |
+| 雲端運算（Azure） | `Coming Soon` |
+| 網頁設計 Web Design | `Coming Soon` |
+| 大數據行銷 Big Data Marketing | `Coming Soon` |
+| 金融智能交易 Algorithmic Trading | `Coming Soon` |
+| LINE BOT | `Coming Soon` |
+| 資料庫概論 Database Fundamentals | `Coming Soon` |
+
+---
+
+## 🏆 Competitions & Awards　／　競賽與獎項
+
+- 🥈 **法國巴黎人壽黑客松** — 佳作
+- 🥈 **中研院 資料科學漫步** — 佳作
+  - *高齡族群長照使用之時間變化與影響因素分析*
+- 🏅 **USR 競賽** — 聲動福華：以 Podcast 銀齡共創課程促進社區跨世代交流
+
+---
+
+## 🔭 Research Projects　／　研究計畫
+
+| 計畫 Project | 狀態 Status |
+|-------------|------------|
+| 大專生研究計畫 Undergraduate Research Grant | 🔄 審查中 Under Review |
+| GCCCE 2026 | `Coming Soon` |
+| APSCE TBICS 2026 | `Coming Soon` |
+
+---
+
+## 📜 Certifications　／　證照
+
+- ✅ **SSE Python 程式設計認證**
+- ✅ **Google Analytics（分析）認證**
+
+---
+
+## 🛠️ Tech Stack　／　技術棧
 
 **Languages　／　程式語言**
 
@@ -47,22 +89,54 @@ My current research focuses on designing **multimodal interactive learning syste
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries　／　框架與函式庫**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 **Tools & Platforms　／　工具與平台**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Skills　／　技能**
+
+- 🐍 **Python** — 資料清洗、視覺化、pandas
+- 🗄️ **SQL** — 資料查詢與管理
+- 📊 **Excel** — 樞紐分析、圖表、數據視覺化
+- 🔍 **資料分析** — 基礎 ETL、資料整理與探索性分析（EDA）
+- 📈 **Google Analytics** — 網站流量分析與追蹤工具應用
 
 ---
 
-##  GitHub Stats　／　GitHub 統計
+## 💼 Experience　／　工作經驗
+
+**東吳大學 巨量管理學院 — IOT 實驗室　成員**
+
+**東吳大學 巨量管理學院 — STEAM / 數位人文實驗室　資訊教育團隊行政小組　組長**
+- 統籌資訊教育團隊行政事務，協助實驗室教學活動與資料處理
+- 協助規劃資料分析教學課程
+- 協作專案報表製作，並運用 Excel 進行數據統整與視覺化
+
+---
+
+## 🎯 Extracurricular　／　社團經驗
+
+**東吳大學調酒社　教學**
+- 規劃與執行社課教學內容
+- 與幹部協作舉辦社內活動與對外交流
+
+---
+
+## 📊 GitHub Stats　／　GitHub 統計
 
 <div align="center">
 
@@ -74,10 +148,11 @@ My current research focuses on designing **multimodal interactive learning syste
 
 ---
 
-##  Contact　／　聯絡方式
+## 📫 Contact　／　聯絡方式
 
--  **Email** — [yuchen.cookie@gmail.com](mailto:yuchen.cookie@gmail.com)
--  **Affiliation　／　所屬單位** — Department of Data Science, Soochow University, Taiwan　東吳大學資料科學系
+- 📧 **Email** — [yuchen.cookie@gmail.com](mailto:yuchen.cookie@gmail.com)
+- 📱 **Phone** — *(coming soon)*
+- 🏫 **Affiliation　／　所屬單位** — Department of Data Science, Soochow University, Taiwan　東吳大學資料科學系
 
 ---
 
