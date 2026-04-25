@@ -79,13 +79,16 @@ Coming Soon
 
 ## 論文與研究發表
 
-**[GCCCE 2026](#)**
+**[IoT Implementation Learning Support System Integrating AR Multimodal Interaction and Generative AI](#)**
+
+發表於：GCCCE 2026 C6：人工智能教育應用及實踐、智慧學習環境（Artificial Intelligence in Education Applications and Practices, Intelligent Learning Environments)
 
 Coming Soon
 
 **[A Multimodal Interactive loT Learning System Using AR Smart Glasses and Generative Al](#)**
 
 發表於：APSCE International Conference on Artificial Intelligence, Metaverse and Artificial Companions in Education and Society 2026
+
 Coming Soon
 
 **[結合生成式 AI與 AR智慧眼鏡之多模態互動學習系統：以物聯網教學為例（審查中）](#)** 
