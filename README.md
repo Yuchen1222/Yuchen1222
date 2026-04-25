@@ -123,16 +123,35 @@ Coming Soon
 
 具備數位行銷數據分析與使用者行為追蹤能力。
 
+**TOEIC 聽力與閱讀 — 745 分**
 
+具備基礎商務與學術英語交流能力，能閱讀英文論文與進行國際發表。
 
 ---
 
 ## 技能
 
-- **程式語言**：Python（資料清洗、視覺化、pandas）、SQL（資料查詢）、JavaScript
-- **資料科學**：Pandas、NumPy、基礎 ETL、探索性分析（EDA）
-- **網頁與追蹤工具**：Google Analytics 應用與網站流量分析、HTML、CSS
-- **雲端與部署**：Azure、Git、Excel（樞紐分析、圖表）
+**程式語言**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**資料科學**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**工具與平台**
+
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ---
 
