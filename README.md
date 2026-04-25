@@ -153,6 +153,13 @@ Coming Soon
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
+<br>
+
+- **程式語言與工具**：Python（資料清洗、視覺化、pandas）、SQL（資料查詢）、JavaScript
+- **資料分析能力**：Pandas、NumPy、基礎 ETL、探索性分析（EDA）
+- **網頁與追蹤工具**：Google Analytics 應用與網站流量分析、HTML、CSS
+- **雲端與部署**：Azure、Git、Excel（樞紐分析、圖表）
+
 ---
 
 ## 工作經驗
