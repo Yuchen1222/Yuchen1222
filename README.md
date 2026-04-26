@@ -168,7 +168,9 @@ AI 驅動的自適應學習環境設計。
 
 整合氣象署 API、環境部資料與即時新聞爬蟲的生活助理 LINE Bot，具備地震即時示警與定位找美食的功能。
 
-**[資料庫概論 Database Fundamentals](#)** &nbsp;`Coming Soon`
+**[fitness-fullstack-webapp](https://github.com/Yuchen1222/fitness-fullstack-webapp)**
+
+以健身中心為主題的全端網站，涵蓋課程介紹、健身器材購物車、訂單系統、意見回饋問卷與會員登入／註冊。前端使用 HTML / CSS / JavaScript，後端以 Node.js + Express.js 建置 RESTful API，並以 SQLite 進行資料持久化。東吳大學資料庫設計課程期末專題。
 
 ---
 
