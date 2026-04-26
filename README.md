@@ -154,7 +154,7 @@ AI 驅動的自適應學習環境設計。
 
 **[Unity-AR-soochow-emblem-defender](https://github.com/Yuchen1222/Unity-AR-soochow-emblem-defender)**
 
-以東吳大學校園知識為題材的 AR 擴增實境互動問答遊戲，掃描圖片卡觸發幽靈角色，完成對話後進入限時問答關卡。
+以東吳校徽為核心的 AR 擴增實境塔防遊戲。透過手機鏡頭掃描現實地板，將校徽錨定於真實空間中，點擊消滅持續湧入的石頭人敵人，阻止牠們衝撞校徽。基於 Unity ARFoundation + ARCore 開發，部署於 Android 裝置。
 
 **[雲端運算 — Azure](#)** &nbsp;`Coming Soon`
 
