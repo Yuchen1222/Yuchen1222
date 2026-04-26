@@ -150,7 +150,7 @@ AI 驅動的自適應學習環境設計。
 
 ---
 
-## 07 &nbsp; 課程專案
+## 07 &nbsp; 專案
 
 **[Unity（期中 / 期末）](#)** &nbsp;`Coming Soon`
 
@@ -162,7 +162,9 @@ AI 驅動的自適應學習環境設計。
 
 **[金融智能交易 Algorithmic Trading](#)** &nbsp;`Coming Soon`
 
-**[LINE BOT](https://github.com/Yuchen1222/LineBot-InfoGrabber)**
+**[LineBot-InfoGrabber](https://github.com/Yuchen1222/LineBot-InfoGrabber)**
+
+整合氣象署 API、環境部資料與即時新聞爬蟲的生活助理 LINE Bot，具備地震即時示警與定位找美食的功能。
 
 **[資料庫概論 Database Fundamentals](#)** &nbsp;`Coming Soon`
 
