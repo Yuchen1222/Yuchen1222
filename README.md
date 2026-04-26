@@ -152,7 +152,9 @@ AI 驅動的自適應學習環境設計。
 
 ## 07 &nbsp; 專案
 
-**[Unity（期中 / 期末）](#)** &nbsp;`Coming Soon`
+**[Unity-AR-soochow-emblem-defender](https://github.com/Yuchen1222/Unity-AR-soochow-emblem-defender)**
+
+以東吳大學校園知識為題材的 AR 擴增實境互動問答遊戲，掃描圖片卡觸發幽靈角色，完成對話後進入限時問答關卡。
 
 **[雲端運算 — Azure](#)** &nbsp;`Coming Soon`
 
