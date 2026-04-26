@@ -162,7 +162,7 @@ AI 驅動的自適應學習環境設計。
 
 **[金融智能交易 Algorithmic Trading](#)** &nbsp;`Coming Soon`
 
-**[LINE BOT](#)** &nbsp;`Coming Soon`
+**[LINE BOT](https://github.com/Yuchen1222/LineBot-InfoGrabber)**
 
 **[資料庫概論 Database Fundamentals](#)** &nbsp;`Coming Soon`
 
