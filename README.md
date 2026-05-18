@@ -138,6 +138,14 @@ AI 驅動的自適應學習環境設計。
 
 ## 06 &nbsp; 認證
 
+**NVIDIA Omniverse 認證**
+
+可開發 Omniverse Extension、建構 3D 模擬場景與數位孿生應用
+
+**NVIDIA Jetson Nano AI 應用開發認證**
+
+可於邊緣裝置部署 AI 模型，進行即時推論與應用開發
+
 **SSE Python 程式設計認證**
 
 具備 Python 程式設計基礎能力，通過 SSE 標準認證。
