@@ -174,7 +174,7 @@ AI 驅動的自適應學習環境設計。
 
 **[elderly-ltc-analysis](https://github.com/Yuchen1222/elderly-ltc-analysis.git)**
 
-
+以中央研究院統計科學研究所「資料科學漫步 2025」競賽研究為基礎延伸開發的長照分析系統。整合邏輯斯迴歸、隨機森林、XGBoost 與 SHAP 可解釋性分析，並以 Streamlit 建構具備長照需求評估工具、雙人情境比較與 Gemini AI 諮詢功能的互動式 Dashboard。
 
 ---
 
