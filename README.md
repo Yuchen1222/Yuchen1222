@@ -166,7 +166,7 @@ AI 驅動的自適應學習環境設計。
 
 **[LineBot-InfoGrabber](https://github.com/Yuchen1222/LineBot-InfoGrabber)**
 
-整合氣象署 API、環境部資料與即時新聞爬蟲的生活助理 LINE Bot，具備地震即時示警與定位找美食的功能。
+整合中央氣象署、環境部 AQI 與 Google Maps API 的多功能生活助理 LINE Bot。支援即時天氣查詢、未來三小時預報、空氣品質健康提醒、地震示警（附報告圖）、雷達回波圖，以及透過 BeautifulSoup 爬取 UDN 的六類即時新聞。以 Python Flask 建構 Webhook 服務，部署於雲端平台。
 
 **[fitness-fullstack-webapp](https://github.com/Yuchen1222/fitness-fullstack-webapp)**
 
