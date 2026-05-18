@@ -172,6 +172,10 @@ AI 驅動的自適應學習環境設計。
 
 以健身中心為主題的全端網站，涵蓋課程介紹、健身器材購物車、訂單系統、意見回饋問卷與會員登入／註冊。前端使用 HTML / CSS / JavaScript，後端以 Node.js + Express.js 建置 RESTful API，並以 SQLite 進行資料持久化。東吳大學資料庫設計課程期末專題。
 
+**[elderly-ltc-analysis](https://github.com/Yuchen1222/elderly-ltc-analysis.git)**
+
+
+
 ---
 
 ## 08 &nbsp; 聯絡方式
