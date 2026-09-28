@@ -41,7 +41,7 @@
 |------|------------|---------|
 | 2026 | IoT Implementation Learning Support System Integrating AR Multimodal Interaction and Generative AI | GCCCE 2026 |
 | 2026 | A Multimodal Interactive IoT Learning System Using AR Smart Glasses and Generative AI | APSCE TBICS 2026 |
-| 核定通過・執行中 | 結合生成式 AI 與 AR 智慧眼鏡之多模態互動學習系統 | 國科會大專生研究計畫 |
+| 核定通過・執行中 | 結合生成式 AI 與 AR 智慧眼鏡之多模態互動學習系統 | 115年度國科會大專生研究計畫（計畫編號：115-2813-C-031-081-E） |
 
 ---
 
